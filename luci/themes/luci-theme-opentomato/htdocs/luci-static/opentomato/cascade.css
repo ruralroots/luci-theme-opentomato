@@ -426,7 +426,7 @@ header > .fill > .container > .brand {
 }
 
 header > .container > a[class="brand"]:after {
-	content:"Â®";
+	content:"®";
 	font-size:14px;
 	font-family:Tahoma;
 	position: absolute;
