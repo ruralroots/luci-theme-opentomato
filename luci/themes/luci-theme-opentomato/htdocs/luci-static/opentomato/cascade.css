@@ -568,7 +568,7 @@ header > .container > a[class="brand"]:after {
     content: "\e00b";
 }
 
-.main> .main-left> .nav> .slide > a[data-title=statistics]:before {
+.main> .main-left> .nav > .slide > a[data-title=statistics]:before {
     content: "\e00f";
 }
 
