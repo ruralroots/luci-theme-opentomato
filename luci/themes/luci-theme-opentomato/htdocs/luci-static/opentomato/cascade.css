@@ -528,7 +528,7 @@ header > .container > a[class="brand"]:after {
     padding: 0;
 }
 
-.main > .main-left > .nav > .slide > a[data-title="status"]:before {
+.main > .main-left > .nav > .slide > a[data-title="Status"]:before {
     content: "\e026";
     display: inline-block;
     top: -1px;
@@ -561,6 +561,10 @@ header > .container > a[class="brand"]:after {
     speak: none;
     line-height: 1;
     -webkit-font-smoothing: antialiased;
+}
+
+.main > .main-left > .nav > .slide > a[data-title="status"]:before {
+    content: "\e026";
 }
 
 .main > .main-left > .nav > .slide > a[data-title="system"]:before {
