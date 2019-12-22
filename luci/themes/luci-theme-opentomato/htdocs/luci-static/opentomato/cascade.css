@@ -791,9 +791,32 @@ label {
     border-radius: 4px;
     -webkit-overflow-scrolling: touch;
 }
+.cbi-modal .cbi-section,
+.cbi-section .cbi-section {
+	padding: 0;
+	box-shadow: none;
+}
 
+.cbi-modal .cbi-tabmenu {
+	margin-left: 0;
+}
+
+.cbi-map-descr,
+.cbi-section-descr {
+	font-size: small;
+	margin-bottom:10px;
+	padding-left:5px;
+}
 .cbi-map-descr + fieldset {
 	margin-top: 1rem;
+}
+.cbi-section > h3:first-child,
+.cbi-section > h4:first-child,
+.cbi-section > p:first-child,
+[data-tab-title] > h3:first-child,
+[data-tab-title] > h4:first-child,
+[data-tab-title] > p:first-child {
+	padding-top: 1rem;
 }
 
 .cbi-section > legend {
