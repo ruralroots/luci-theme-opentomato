@@ -610,7 +610,7 @@ color: #FFFAFA!important;
 .main > .main-left > .nav > li > a[data-title="logout"] {
     padding-left:36px;
     line-height:40px;
-    font-size: 12pt;
+    font-size: 11pt;
  color: #FFFAFA!important;
 }
 .main > .main-left > .nav > li > a[data-title="logout"]:before {
