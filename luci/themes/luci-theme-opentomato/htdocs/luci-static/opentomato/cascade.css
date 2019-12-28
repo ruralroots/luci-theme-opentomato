@@ -610,7 +610,8 @@ color: #FFFAFA!important;
 .main > .main-left > .nav > li > a[data-title="Logout"] {
     padding-left:36px;
     line-height:40px;
- color: #8B0000!important;
+    font-size: 12pt;
+ color: #FFFAFA!important;
 }
 .main > .main-left > .nav > li > a[data-title="Logout"]:before {
     content: "\e005";
