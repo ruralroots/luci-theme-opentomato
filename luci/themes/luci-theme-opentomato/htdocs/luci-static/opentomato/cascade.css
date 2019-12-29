@@ -608,7 +608,7 @@ color: #FFFAFA!important;
 }
 
 .main > .main-left > .nav > li > a[data-title="logout"] {
-    padding-top:10px;
+    padding-top:1px;
     padding-left:36px;
     line-height:40px;
     font-size: 11pt;
