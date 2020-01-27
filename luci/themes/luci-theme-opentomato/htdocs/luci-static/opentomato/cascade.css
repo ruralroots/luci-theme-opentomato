@@ -1671,10 +1671,6 @@ form[method="post"] + form[method="post"],
 	padding: .3rem .6rem;
 }
 
-.modal .spinning {
-	margin-bottom: 2em;
-}
-
 body.modal-overlay-active {
 	overflow: hidden;
 	height: 100vh;
