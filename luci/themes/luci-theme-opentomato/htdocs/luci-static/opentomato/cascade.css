@@ -426,7 +426,7 @@ header > .fill > .container > .brand {
 }
 
 header > .container > a[class="brand"]:after {
-	content:"®";
+	content:"Â®";
 	font-size:14px;
 	font-family:Tahoma;
 	position: absolute;
@@ -1603,7 +1603,7 @@ form[method="post"] + form[method="post"],
 }
 
 .modal {
-	display: flex-auto;
+	display: flex;
 	align-items: center;
 	flex-wrap: wrap;
 	width: 90%;
@@ -1615,6 +1615,7 @@ form[method="post"] + form[method="post"],
 	border-radius: 3px !important;
 	background: #fff;
 	box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .16), 0 0 2px 0 rgba(0, 0, 0, .12);
+	
 }
 
 .modal > * {
